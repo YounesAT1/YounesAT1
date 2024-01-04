@@ -37,11 +37,3 @@ src="https://img.shields.io/github/followers/YounesAT1?logo=github&style=for-the
 <a href="http://www.github.com/YounesAT1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YounesAT1&stroke=000000&background=ffffff&ring=a855f7&fire=a855f7&currStreakNum=000000&currStreakLabel=a855f7&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="https://github.com/YounesAT1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounesAT1&langs_count=10&title_color=a855f7&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/YounesAT1/todo-app-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YounesAT1&repo=todo-app-react&title_color=a855f7&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/YounesAT1/Tic_Tac_Toe" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YounesAT1&repo=Tic_Tac_Toe&title_color=a855f7&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/YounesAT1/crud_clients_redux_axios" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YounesAT1&repo=crud_clients_redux_axios&title_color=a855f7&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
