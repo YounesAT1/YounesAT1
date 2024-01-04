@@ -4,7 +4,8 @@
 <h3 align="center">A full-stack developer from Casablanca, Morocco</h3>
 <img align="right" alt="coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=younesat1&label=Profile%20views&color=0e75b6&style=flat" alt="younesat1" /> </p>
+<p align="left"> <img style="border-radius: 8px;" src="https://komarev.com/ghpvc/?username=younesat1&label=Profile%20views&color=0e75b6&style=flat" alt="younesat1" />
+ </p>
 
 - 🔭 I’m currently working on [My-Portfolio](https://github.com/YounesAT1/portfolio)
 
