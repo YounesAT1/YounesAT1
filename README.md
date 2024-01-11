@@ -45,3 +45,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=younesat1&show_icons=true&locale=en&layout=compact" alt="younesat1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younesat1&show_icons=true&locale=en" alt="younesat1" /></p>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YounesAT1&bg_color=e5e5f1&color=16051f&line=ab12f3&point=a993d2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
