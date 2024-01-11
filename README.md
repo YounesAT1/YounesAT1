@@ -6,6 +6,9 @@
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=younesat1&label=Profile%20views&color=0e75b6&style=flat" alt="younesat1" />
  </p>
+ <p align="left">
+  <img src="https://img.shields.io/github/followers/younesat1?label=Followers&color=0e75b6&style=flat" alt="Followers"/>
+</p>
 
 - 🔭 I’m currently working on [My-Portfolio](https://github.com/YounesAT1/portfolio)
 
@@ -21,6 +24,14 @@
 
 - ⚡ Fun fact **I am that guy in tech**
 
+<h3 align="left">Badges:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO" width="100"/>
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" alt="Pull Shark" width="100"/>
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" alt="Quik draw" width="100"/>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/younes76606361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="younes76606361" height="30" width="40" /></a>
@@ -34,5 +45,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=younesat1&show_icons=true&locale=en&layout=compact" alt="younesat1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younesat1&show_icons=true&locale=en" alt="younesat1" /></p>
-
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younesat1&" alt="younesat1" /></p>-->
