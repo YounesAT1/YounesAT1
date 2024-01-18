@@ -24,7 +24,8 @@
 
 - ⚡ Fun fact **I am that guy in tech**
 
-<h3 align="left">Badges:</h3>
+<h3 align="left">Achivements:</h3>
+<!-- <h3 align="left">Bages:</h3> -->
 <p align="left">
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO" width="70"/>
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" alt="Pull Shark" width="70"/>
